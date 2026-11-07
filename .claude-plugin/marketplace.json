@@ -1,0 +1,34 @@
+{
+  "name": "youtube-skills",
+  "owner": {
+    "name": "Mr.V",
+    "url": "https://github.com/mrvsubstack"
+  },
+  "metadata": {
+    "description": "9 Claude skills for YouTube: title optimizer, thumbnail brief, hook scripter, description writer, content planner, channel optimizer, community post writer, repurposer, plus a Postiz publisher that schedules approved posts."
+  },
+  "plugins": [
+    {
+      "name": "youtube-skills",
+      "source": "./",
+      "description": "9 Claude skills for YouTube: title optimizer, thumbnail brief, hook scripter, description writer, content planner, channel optimizer, community post writer, repurposer, plus a Postiz publisher that schedules approved posts.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mr.V",
+        "url": "https://github.com/mrvsubstack"
+      },
+      "homepage": "https://github.com/mrvsubstack/youtube-skills",
+      "license": "MIT",
+      "keywords": [
+        "youtube",
+        "social-media",
+        "marketing",
+        "content",
+        "claude-skills",
+        "postiz",
+        "scheduling"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
